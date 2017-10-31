@@ -1,0 +1,39 @@
+startscreen.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+starscreen_options_btn_up
+  rotate: false
+  xy: 2, 306
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+starscreen_game_name
+  rotate: false
+  xy: 2, 2
+  size: 590, 218
+  orig: 700, 300
+  offset: 95, 55
+  index: -1
+starscreen_start_game_btn_down
+  rotate: false
+  xy: 594, 154
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+starscreen_options_btn_down
+  rotate: false
+  xy: 404, 306
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
+starscreen_start_game_btn_up
+  rotate: false
+  xy: 594, 2
+  size: 400, 150
+  orig: 400, 150
+  offset: 0, 0
+  index: -1
